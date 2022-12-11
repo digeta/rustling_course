@@ -1,0 +1,1 @@
+C:\Users\Trump\CLionProjects\Rustlings\target\debug\use_clippy_as_external_linter.exe: C:\Users\Trump\CLionProjects\Rustlings\Common\ Programming\ Concepts\Basic\ Data\ Types\Use\ Clippy\ as\ External\ Linter\src\main.rs
